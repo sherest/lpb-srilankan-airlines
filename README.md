@@ -7,8 +7,8 @@ Codebase for the fictional WKND site, showcasing the capabilities of Adobe's Edg
 - Document based content authoring
 
 ## Environments
-- Preview: https://main--lpb-srilankan-airlines--sherest.aem.page/
-- Live: https://main--lpb-srilankan-airlines--sherest.aem.live/
+- Preview: https://main--lpb-srilankan-airlines--sherest.aem.page/us/en/
+- Live: https://main--lpb-srilankan-airlines--sherest.aem.live/us/en/
 
 ## Installation
 
